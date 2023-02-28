@@ -12,7 +12,9 @@ p, h1, li, span {
     color: rgb(193, 252, 236);
 }
 
-a:link { text-decoration: none; }
+a:link { text-decoration: none; 
+    color: rgb(193, 252, 236);
+}
 
 a:visited { text-decoration: none;
     color: rgb(193, 252, 236);
